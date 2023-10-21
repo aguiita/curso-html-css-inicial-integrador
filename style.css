@@ -1,0 +1,13 @@
+header {
+    background-color: rgb(116, 245, 195);
+    padding: 10px;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    box-sizing: border-box;
+    z-index: 1;
+}
+ul li {
+    display: inline
+}
